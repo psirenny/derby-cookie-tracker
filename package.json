@@ -1,0 +1,29 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/derby-cookie-tracker/issues"
+  },
+  "description": "A Derby cookie tracker.",
+  "keywords": [
+    "derby",
+    "image",
+    "pan",
+    "scale",
+    "zoom"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "derby-cookie-tracker",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/derby-cookie-tracker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3",
+  "dependencies": {
+    "cookies-js": "^1.1.0"
+  }
+}
