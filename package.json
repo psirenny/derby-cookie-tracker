@@ -3,13 +3,15 @@
   "bugs": {
     "url": "https://github.com/psirenny/derby-cookie-tracker/issues"
   },
+  "dependencies": {
+    "cookies-js": "^1.1.0"
+  },
   "description": "A Derby cookie tracker.",
   "keywords": [
     "derby",
-    "image",
-    "pan",
-    "scale",
-    "zoom"
+    "cookie",
+    "tracker",
+    "uuid"
   ],
   "license": "MIT",
   "main": "index.js",
@@ -22,8 +24,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.3",
-  "dependencies": {
-    "cookies-js": "^1.1.0"
-  }
+  "version": "1.0.0"
 }
