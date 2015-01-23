@@ -14,10 +14,10 @@ Usage
 -----
 
     var derby = require('derby');
-    var cookie = require('derby-cookie-tracker');
+    var cookieTracker = require('derby-cookie-tracker');
 
     var app = derby.createApp('app', __filename);
-    cookie(app);
+    app.use(cookieTracker())
 
 Updating
 --------
