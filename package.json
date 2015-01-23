@@ -6,7 +6,7 @@
   "dependencies": {
     "cookies-js": "^1.1.0"
   },
-  "description": "A Derby cookie tracker.",
+  "description": "A Derby JS cookie tracker.",
   "keywords": [
     "derby",
     "cookie",
